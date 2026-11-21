@@ -1,29 +1,29 @@
-id,name
-500,Anne Will 500 
-ul,Ursula von der Leyen
-lk,Lars Klingbein
-nr,Norbert Röttgen
-sw,Sahra Wagenknecht
-cs,Constanze Stelzenmüller
-501,Anne Will 501
-cl,Christian Lindner
-ks,Karl Schögel
-lm,Ljudmyla Melnyk
-kd,Kristina Dunz
-el,Eglis Levits
-502,Anne Will 502
-ab,Annalena Barbock
-ft,Frans Timmermans
-am,Andrij Melnyk
-agl,Alexander Graf Lambsdorff
-er,Egon Ramms
-503,Anne Will 503
-rh,Robert Habeck
-cm,Claudia Major
-kp,Katja Petrowskaja
-rk,Roderich Kiesewetter
-cdu,CDU
-spd,SPD
-linke,Die Linke
-fdp,FDP
-gruenen,B90/Die Grünen
+id,name,type,party
+500,Anne Will 500 ,2,
+ul,Ursula von der Leyen,1,CDU
+lk,Lars Klingbein,1,SPD
+nr ,Norbert Röttgen,1,CDU
+sw,Sahra Wagenknecht,1,Die Linke
+cs,Constanze Stelzenmüller,1,
+501,Anne Will 501,2,
+cl,Christian Lindner,1,FDP
+ks,Karl Schögel,1,
+lm,Ljudmyla Melnyk,1,
+kd,Kristina Dunz,1,
+el,Eglis Levits,1,
+502,Anne Will 502,2,
+ab,Annalena Barbock,1,B90/Die Grünen
+ft,Frans Timmermans,1,
+am,Andrij Melnyk,1,
+agl,Alexander Graf Lambsdorff,1,FDP
+er,Egon Ramms,1,
+503,Anne Will 503,2,
+rh,Robert Habeck,1,B90/Die Grünen
+cm,Claudia Major,1,
+kp,Katja Petrowskaja,1,
+rk,Roderich Kiesewetter,1,CDU
+cdu,CDU,2,
+spd,SPD,2,
+linke,Die Linke,2,
+fdp,FDP,2,
+gruenen,B90/Die Grünen,2,
